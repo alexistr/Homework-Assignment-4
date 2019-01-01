@@ -12,6 +12,9 @@ with your own values.
 The menu is hard coded in lib/menu.js.
 Obviously you'll need a stripe and a mailgun account.
 
+# CLI
+type help or man to get the list of the CLI command
+
 # GUI navigation ###
 
 ## Signup
